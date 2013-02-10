@@ -10,4 +10,5 @@ http://code.google.com/p/ai-library/downloads/list
 I used the ANN in two projects:
 
 http://drew.heliohost.org/java-applets/pattern-recognition
+
 http://drew.heliohost.org/java-applets/lawnmower
